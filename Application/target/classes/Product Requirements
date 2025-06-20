@@ -1,0 +1,33 @@
+# Student Management Application
+
+## 🧑‍🎓 Overview
+A console-based Java application to manage student records efficiently using OOP principles and Java Collections.
+
+🛠 Tech Stack
+- **Programming Language:** Core Java
+- **IDE:** Eclipse
+- **Version Control:** Git & GitHub
+- **Collections Used:** ArrayList, HashMap
+
+## 📌 Features
+- Add, update, delete, search, and display student records
+- Menu-driven CLI interface
+- Exception handling for invalid inputs
+- Over 100 student entries handled using Java Collections
+- Sorted display of students by name
+
+## 📁 Project Structure
+- `Student.java`: POJO class using encapsulation
+- `StudentManager.java`: Business logic layer
+- `Main.java`: CLI interface and interaction
+
+## ✅ OOP Concepts Implemented
+- Encapsulation
+- Inheritance *(design extensibility)*
+- Abstraction *(via separation of logic)*
+- Polymorphism *(can be extended for method overriding if inherited)*
+
+## 📦 How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/student-management-app.git
